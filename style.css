@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+.left{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    align-self: flex-end;
+    margin: -8px;
+
+}
+
+.lhome{
+    width: 35px;
+    padding-top: 20px;
+}
+
+.lsearch{
+    width: 35px;
+    padding-top: 20px;
+}
+.llib{
+    width: 35px;
+    padding-top: 20px;
+  }
+  .lcreate{
+    width: 35px;
+    padding-top: 50px;
+}
+.llike{
+    width: 35px;
+    padding-top: 20px;
+}
+.lepi{
+    width: 35px;
+    padding-top: 20px;
+}
+.install{
+    width: 35px;
+    padding-top: 20px;
+}
+
+.ahome{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+}
+body{
+    font-family: 'DM sans','sans serif';
+    font-weight: 500;
+    font-size: x-large;
+}
+.asearch{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+}
+.alib{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+}
+.fav{
+    color: white;
+    padding-left: 40px;
+    
+}
